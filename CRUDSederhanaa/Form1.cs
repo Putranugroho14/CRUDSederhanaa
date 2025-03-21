@@ -150,4 +150,10 @@ namespace CRUDSederhanaa
             }
         }
 
+        private void btnUbah_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+
        
