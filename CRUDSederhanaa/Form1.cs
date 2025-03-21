@@ -24,4 +24,17 @@ namespace CRUDSederhanaa
             LoadData();
         }
 
+        // Fungsi untuk mengosongkan semua input pada TextBox
+        private void ClearForm()
+        {
+            txtNIM.Clear();
+            txtNama.Clear();
+            txtEmail.Clear();
+            txtTelepon.Clear();
+            txtAlamat.Clear();
+
+            //Fokus kembali ke NIM agar user siap memasukkan data baru
+            txtNIM.Focus();
+        }
+
         
