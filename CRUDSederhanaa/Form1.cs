@@ -16,6 +16,6 @@ namespace CRUDSederhanaa
         // Connection String untuk menghubungkan ke database SQL Server
         private string connectionString = "Data Source=LAPTOP-NIHBFT5J\\RAFTHA;" +
                                          "Initial Catalog=OrganisasiMahasiswa;Integrated Security=True";
-
+   
 
        
