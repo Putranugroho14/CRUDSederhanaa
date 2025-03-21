@@ -180,4 +180,19 @@ namespace CRUDSederhanaa
             }
         }
 
-       
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private Label label4;
+        private Label label5;
+        private TextBox txtNIM;
+        private TextBox txtNama;
+        private TextBox txtEmail;
+        private TextBox txtTelepon;
+        private TextBox txtAlamat;
+        private Button btnTambah;
+        private Button btnHapus;
+        private Button btnUbah;
+        private DataGridView dgvMahasiswa;
+    }
+}
